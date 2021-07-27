@@ -1,0 +1,48 @@
+table {
+    width: 100%;
+  }
+
+
+  mat-form-field {
+    width: 100%;
+
+  }
+  .example-full-width{width: 96%;}
+
+  section {
+    display: table;
+  }
+  
+  .example-label {
+    display: table-cell;
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 120px;
+  }
+  
+  .example-button-row {
+    padding-right: 8px; 
+    display: table-cell;
+    width: 100%;
+    text-align: right;
+  }
+
+  .example-button-row-left
+  {
+    padding-left: 8px; 
+    display: table-cell;
+    width: 100%;
+    text-align: left;    
+  }
+
+  .navbar {
+    justify-content: space-between;
+}
+
+
+.mat-form-field {
+  margin-right: 8px;
+}
+  
+
+  
